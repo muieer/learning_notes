@@ -50,6 +50,6 @@ CPU 有 16、32、64 位寄存器。如果指针大小为 35 位（用一个 16 
 
 所以说，在开启指针压缩（指针大小为 4 字节）和 8 字节对其填充的情况下，时间效率和空间效率得到了很好的平衡。
 
-## 四 参考连接
+## 五 参考连接
 
 - [Memory Layout of Objects in Java](https://www.baeldung.com/java-memory-layout), by Baeldung
